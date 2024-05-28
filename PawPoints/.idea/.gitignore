@@ -1,0 +1,38 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Package Files
+*.zip
+*.tar.gz
+*.rar
+
+# Logs
+*.log
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle/
+build/
+out/
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Eclipse
+.project
+.classpath
+.c9revisions
+.settings/
